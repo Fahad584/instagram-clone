@@ -1,4 +1,4 @@
 # instagram-clone.....
 instagram clone
-email id 
+Email id..
 fahadbhutta5833@gmail.com
